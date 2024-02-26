@@ -1,9 +1,20 @@
 <template>
-<v-container class="elevation-5">
-  <router-view/>
-</v-container>
+  <div>
+    <HomeView></HomeView>
+  </div>
 </template>
 
-<style lang="scss">
+<script>
+import HomeView from './views/HomeView.vue';
 
+export default {
+    name: 'App',
+    components: { HomeView }
+}
+</script>
+
+<style>
+.v-card, .v-img {
+  text-align: center;
+}
 </style>

@@ -4,6 +4,6 @@
         "movie_detail": "https://api.themoviedb.org/3/movie/",
         "photo_path": "https://image.tmdb.org/t/p/w300"
     },
-    "api_key": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NzllYTJjMGM0OTJmNGViNDM5Y2EyZGNjYWQwM2NlYiIsInN1YiI6IjY1YzEwNDFkY2Y2MmNkMDE4Njk2YTE4ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.3ocpwPKCioj9af_XgGTAbz7A4WnXM4UPZAaDAKDYUBI"
+    "api_key": "979ea2c0c492f4eb439ca2dccad03ceb"
     
 }
